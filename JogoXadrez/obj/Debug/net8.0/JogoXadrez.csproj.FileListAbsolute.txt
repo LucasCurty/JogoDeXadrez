@@ -1,0 +1,14 @@
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\bin\Debug\net8.0\JogoXadrez.exe
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\bin\Debug\net8.0\JogoXadrez.deps.json
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\bin\Debug\net8.0\JogoXadrez.runtimeconfig.json
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\bin\Debug\net8.0\JogoXadrez.dll
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\bin\Debug\net8.0\JogoXadrez.pdb
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\obj\Debug\net8.0\JogoXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\obj\Debug\net8.0\JogoXadrez.AssemblyInfoInputs.cache
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\obj\Debug\net8.0\JogoXadrez.AssemblyInfo.cs
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\obj\Debug\net8.0\JogoXadrez.csproj.CoreCompileInputs.cache
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\obj\Debug\net8.0\JogoXadrez.dll
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\obj\Debug\net8.0\refint\JogoXadrez.dll
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\obj\Debug\net8.0\JogoXadrez.pdb
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\obj\Debug\net8.0\JogoXadrez.genruntimeconfig.cache
+C:\Projetos\Plano de treinamento Lucas Curty\C#\JogoXadrez\JogoXadrez\obj\Debug\net8.0\ref\JogoXadrez.dll
